@@ -10,9 +10,7 @@ This is the project journal for CART 470.
 &emsp;Regarding the work we have done in preparing to meet the client, our group has gathered some background data about Concordia’s campus, finding a floor map of one of the buildings which includes a 360-degree view of one of the rooms (found at https://www.concordia.ca/hospitality/venues/concordia-conference-centre/main-floor-plan-seating-capacity.html). We also formulated some questions, created a Photoshop mock-up of the basics of the project, and coordinated a Discord server and Fizzy board.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img src="YOUR-DEFAULT-IMAGE">
+ <img src="CART_470_Journal_Images/CART 470 Initial Prototype">
 </picture>
 
 
