@@ -64,6 +64,8 @@ This is the project journal for CART 470.
 
 &emsp;This was completed in parallel with the development of Version 2. Based on Professor Grond’s feedback on our current prototype, we formed a list of the most pressing alterations/additions and began chipping away at them through the week. Andre and I worked on improving the map view, setting the Map Page as the landing page as opposed to the previous placeholder Home Page. We also enlarged the map itself to take up the whole screen instead of just a small square. In the header, we included links to an Information Page and a Creation Page, which provide context and will eventually allow users to post their own location data. Additionally, we finalized the popup previews of the map markers, which we changed so that they appear ‘on click’ as opposed to ‘on hover’. Then, we created an HTML template for the popups that displays the location title and a button to link to the Explore Page, as well as added spaces for later additions of the thumbnail image and description. In the meantime, my other group members developed the Explore Page. Finally, we hosted the new prototype online, though we decided it would be easier to demonstrate the project locally for our presentation.
 
+&emsp;Gathering material for the Explore Page is still a main priority. Following that, we need to structure the recorded data in a database to populate the Explore Page with each location’s data, which will take us to our next major development milestone.
+
 
 ### Journal Entry Week 8
 
