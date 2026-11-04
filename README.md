@@ -60,9 +60,9 @@ This is the project journal for CART 470.
 
 ### Journal Entry Week 7
 
+&emsp;Midterm presentations were on the front of our team’s mind this week, and we dedicated much of our time to refining Version 2 of our prototype and building our PowerPoint slides. We separated our work on the PowerPoint based on the project tasks, where we described and prepared a speech for each of our individual responsibilities. I referenced my previous journal entries pertaining to the map and condensed weeks of work into a select few slides, touching on my objectives, struggles, and plans for the future. 
 
-
-
+&emsp;This was completed in parallel with the development of Version 2. Based on Professor Grond’s feedback on our current prototype, we formed a list of the most pressing alterations/additions and began chipping away at them through the week. Andre and I worked on improving the map view, setting the Map Page as the landing page as opposed to the previous placeholder Home Page. We also enlarged the map itself to take up the whole screen instead of just a small square. In the header, we included links to an Information Page and a Creation Page, which provide context and will eventually allow users to post their own location data. Additionally, we finalized the popup previews of the map markers, which we changed so that they appear ‘on click’ as opposed to ‘on hover’. Then, we created an HTML template for the popups that displays the location title and a button to link to the Explore Page, as well as added spaces for later additions of the thumbnail image and description. In the meantime, my other group members developed the Explore Page. Finally, we hosted the new prototype online, though we decided it would be easier to demonstrate the project locally for our presentation.
 
 
 ### Journal Entry Week 8
