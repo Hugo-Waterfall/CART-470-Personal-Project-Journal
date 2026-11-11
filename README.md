@@ -69,9 +69,11 @@ This is the project journal for CART 470.
 
 ### Journal Entry Week 8
 
+&emsp;Leading up to the midterm presentation, there was a rush to get our project demo ready to showcase, including refining all the design and functionalities we have been working on. We managed to develop a really strong base, which effectively laid out the main sections of our project, which was a huge step for our group. Now we have entered another stage of our project, which requires us to gather materials before we can continue development. 
 
+&emsp;Following our presentation, we took stock of the feedback we received from the class and took note of the comments given by Professor Grond, who seemed satisfied with the current stage of our program. We told him that we were now in the position to gather materials and asked him to loan us his special ambisonics microphone. Unfortunately, he said that he wouldn’t be able to loan it until the class of the 11th. Since we cannot flesh out our database, populate the website with a list of location data, or develop many accessibility features without first uploading content, our development progress slowed temporarily. While waiting for Professor Grond, we polished the website by writing an About page, tweaked the Explore page to make it more straightforward to use, and researched alternatives to our Map page. We previously made a conscious decision to steer away from using Google Maps, but the customization offered by their API makes it very enticing to create a more visually engaging experience. 
 
-
+&emsp;During the class on November 11th, we met with Professor Grond and gained access to his special Ambisonics microphone. We recorded three audio clips of approximately 3 minutes each to test how well they will integrate with our current technology setup. After we confirm these audio clips can function with our prototype, we will record seven or more samples and capture 360 imagery of those locations to store in our database. Once this has been completed, we can implement the final essential features, then focus on developing experience enhancements and accessibility. 
 
 
 ### Journal Entry Week 9
